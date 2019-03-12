@@ -1,6 +1,6 @@
 # CardView
 # Fragmentation
-https://github.com/YoKeyword/Fragmentation  Fragmentation 的代码，只是为了改成androidx
+# androidx
 ##### Add it in your root build.gradle at the end of repositories:
      allprojects {
 		    repositories {
@@ -10,5 +10,5 @@ https://github.com/YoKeyword/Fragmentation  Fragmentation 的代码，只是为�
 	    }
 ##### Add the dependency
         dependencies {
-	        implementation 'com.github.zouxianbincc:Fragmentation:1.0.0'
+	        implementation 'com.github.zouxianbincc:CardView:1.0.0'
        	}
